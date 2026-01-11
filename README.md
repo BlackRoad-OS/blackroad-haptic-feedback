@@ -1,26 +1,14 @@
-# 🖤🛣️ BlackRoad Haptic Feedback
+# BlackRoad Haptic Feedback
 
-Part of the BlackRoad Product Empire - 350+ enterprise solutions
+Haptic feedback engine for immersive tactile experiences in VR/AR and gaming.
 
-## 🚀 Quick Start
+## Features
+- **Multi-Device** - Support for controllers, gloves, suits
+- **Pattern Library** - 100+ pre-built haptic patterns
+- **Real-Time** - Low-latency feedback synchronization
+- **API** - Simple integration for developers
+- **Spatial Haptics** - Location-based tactile feedback
+- **Cross-Platform** - Unity, Unreal, native SDKs
 
-```bash
-./blackroad-haptic-feedback.sh
-```
-
-## 🎨 BlackRoad Design System
-
-- **Hot Pink**: #FF1D6C
-- **Amber**: #F5A623  
-- **Electric Blue**: #2979FF
-- **Violet**: #9C27B0
-
-## 📚 Documentation
-
-Full docs: https://docs.blackroad.io
-
-## 🖤 BlackRoad Empire
-
-Part of 350+ products across 46 categories. Built with ∞ vision.
-
-**BlackRoad OS, Inc.** | Built with Claude
+## License
+Copyright (c) 2026 BlackRoad OS, Inc. Proprietary software.
